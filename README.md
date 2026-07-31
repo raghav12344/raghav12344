@@ -1,14 +1,14 @@
 # Hi there, I'm Raghav Gupta 👋
 
-🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad)[cite: 1]  
-💻 **Full-Stack & ML/AI Developer** passionate about building scalable web apps, data-driven systems, and intelligent software solutions[cite: 1].
+🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad)  
+💻 **Full-Stack & ML/AI Developer** passionate about building scalable web applications, data-driven systems, and intelligent software solutions.
 
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233)[cite: 1]
-- **GitHub:** [github.com/raghav12344](https://github.com/raghav12344)[cite: 1]
-- **Email:** graghav1233@gmail.com[cite: 1]
+- **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233)
+- **GitHub:** [github.com/raghav12344](https://github.com/raghav12344)
+- **Email:** graghav1233@gmail.com
 
 ---
 
@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Machine Learning & AI:**  
+**Machine Learning & Artificial Intelligence:**  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -38,23 +38,26 @@
 ---
 
 ### 🧠 ML & AI Focus
-- 📊 Building predictive models using **Supervised & Unsupervised Machine Learning** algorithms[cite: 1].
-- 🤖 Integrating **AI APIs and LLMs** (like Gemini) directly into MERN-stack web applications[cite: 1].
+- 📊 Building predictive models using **Supervised & Unsupervised Machine Learning** algorithms.
+- 🤖 Integrating **AI APIs and LLMs** (like Gemini) directly into MERN-stack web applications.
 - ⚡ Working with Python data processing libraries (**NumPy, Pandas, Scikit-Learn**).
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[Medicose](https://github.com/raghav12344)** | *MERN, Tailwind CSS, Gemini AI, Cloudinary*[cite: 1]
-  * Centralized medical supply platform with **Gemini-powered AI assistance** for streamlined search and record management[cite: 1].
-* **[EstateSync](https://github.com/raghav12344)** | *Java, JavaFX, JDBC, MySQL, Apache POI*[cite: 1]
-  * Real estate management app engineered with optimized search/filter logic for fast property discovery[cite: 1].
-* **[Sportize](https://github.com/raghav12344)** | *Node.js, Express, AngularJS, MySQL, Cloudinary*[cite: 1]
-  * Full-stack sports event management application with custom RESTful APIs[cite: 1].
+* **[Medicose](https://github.com/raghav12344)** | *MERN, Tailwind CSS, Gemini AI, Cloudinary*
+  * Centralized medical supply platform with **Gemini-powered AI assistance** for streamlined search and record management.
+* **[EstateSync](https://github.com/raghav12344)** | *Java, JavaFX, JDBC, MySQL, Apache POI*
+  * Real estate management app engineered with optimized search/filter logic for fast property discovery.
+* **[Sportize](https://github.com/raghav12344)** | *Node.js, Express, AngularJS, MySQL, Cloudinary*
+  * Full-stack sports event management application with custom RESTful APIs.
 
 ---
 
 ### 📊 GitHub Stats
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav12344&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav12344&show_icons=true&theme=radial" alt="Raghav's GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav12344&theme=radial" alt="GitHub Streak" />
+</p>
