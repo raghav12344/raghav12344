@@ -1,14 +1,14 @@
 # Hi there, I'm Raghav Gupta 👋
 
-🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad)  
-💻 **Full-Stack & ML/AI Developer** passionate about building scalable web applications, data-driven systems, and intelligent software solutions.
+🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad)[cite: 1]  
+💻 **Full-Stack & ML/AI Developer** passionate about building scalable web applications, RAG pipelines, and data-driven systems[cite: 1].
 
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233)
-- **GitHub:** [github.com/raghav12344](https://github.com/raghav12344)
-- **Email:** graghav1233@gmail.com
+- **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233)[cite: 1]
+- **GitHub:** [github.com/raghav12344](https://github.com/raghav12344)[cite: 1]
+- **Email:** graghav1233@gmail.com[cite: 1]
 
 ---
 
@@ -16,17 +16,17 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Machine Learning & Artificial Intelligence:**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0052CC?style=for-the-badge&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_AI-8E7CC3?style=for-the-badge&logo=google&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Web & Databases:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,20 +38,22 @@
 ---
 
 ### 🧠 ML & AI Focus
-- 📊 Building predictive models using **Supervised & Unsupervised Machine Learning** algorithms.
-- 🤖 Integrating **AI APIs and LLMs** (like Gemini) directly into MERN-stack web applications.
-- ⚡ Working with Python data processing libraries (**NumPy, Pandas, Scikit-Learn**).
+- 🤖 **RAG Architecture & Vector Search:** Building intelligent QA systems that index official technical documentation to generate precise answers.
+- 📊 **Machine Learning:** Training predictive models using Supervised & Unsupervised Learning algorithms[cite: 1].
+- ⚡ **Full-Stack AI Integration:** Seamlessly embedding AI/LLM pipelines into web applications[cite: 1].
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[Medicose](https://github.com/raghav12344)** | *MERN, Tailwind CSS, Gemini AI, Cloudinary*
-  * Centralized medical supply platform with **Gemini-powered AI assistance** for streamlined search and record management.
-* **[EstateSync](https://github.com/raghav12344)** | *Java, JavaFX, JDBC, MySQL, Apache POI*
-  * Real estate management app engineered with optimized search/filter logic for fast property discovery.
-* **[Sportize](https://github.com/raghav12344)** | *Node.js, Express, AngularJS, MySQL, Cloudinary*
-  * Full-stack sports event management application with custom RESTful APIs.
+* **[SQL Doc QA Assistant](https://github.com/raghav12344)** | *Python, RAG, Vector Search, LangChain, LLMs, SQL*
+  * Built a **Retrieval-Augmented Generation (RAG)** assistant that parses official SQL documentation and answers complex user queries with context-aware, accurate syntax and explanations.
+* **[Medicose](https://github.com/raghav12344)** | *MERN, Tailwind CSS, Gemini AI, Cloudinary*[cite: 1]
+  * Centralized medical supply platform with **Gemini-powered AI assistance** for streamlined search and record management[cite: 1].
+* **[EstateSync](https://github.com/raghav12344)** | *Java, JavaFX, JDBC, MySQL, Apache POI*[cite: 1]
+  * Real estate management app engineered with optimized search/filter logic for fast property discovery[cite: 1].
+* **[Sportize](https://github.com/raghav12344)** | *Node.js, Express, AngularJS, MySQL, Cloudinary*[cite: 1]
+  * Full-stack sports event management application with custom RESTful APIs[cite: 1].
 
 ---
 
