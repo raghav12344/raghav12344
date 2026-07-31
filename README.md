@@ -1,14 +1,14 @@
 # Hi there, I'm Raghav Gupta 👋
 
-🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad)[cite: 1]  
-💻 **Full-Stack & ML/AI Developer** passionate about building scalable web applications, RAG pipelines, and data-driven systems[cite: 1].
+🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad).
+💻 **Full-Stack & ML/AI Developer** passionate about building scalable web applications, RAG pipelines, and data-driven systems.
 
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233)[cite: 1]
-- **GitHub:** [github.com/raghav12344](https://github.com/raghav12344)[cite: 1]
-- **Email:** graghav1233@gmail.com[cite: 1]
+- **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233).
+- **GitHub:** [github.com/raghav12344](https://github.com/raghav12344).
+- **Email:** graghav1233@gmail.com.
 
 ---
 
@@ -39,8 +39,8 @@
 
 ### 🧠 ML & AI Focus
 - 🤖 **RAG Architecture & Vector Search:** Building intelligent QA systems that index official technical documentation to generate precise answers.
-- 📊 **Machine Learning:** Training predictive models using Supervised & Unsupervised Learning algorithms[cite: 1].
-- ⚡ **Full-Stack AI Integration:** Seamlessly embedding AI/LLM pipelines into web applications[cite: 1].
+- 📊 **Machine Learning:** Training predictive models using Supervised & Unsupervised Learning algorithms.
+- ⚡ **Full-Stack AI Integration:** Seamlessly embedding AI/LLM pipelines into web applications.
 
 ---
 
@@ -48,12 +48,12 @@
 
 * **[SQL Doc QA Assistant](https://github.com/raghav12344)** | *Python, RAG, Vector Search, LangChain, LLMs, SQL*
   * Built a **Retrieval-Augmented Generation (RAG)** assistant that parses official SQL documentation and answers complex user queries with context-aware, accurate syntax and explanations.
-* **[Medicose](https://github.com/raghav12344)** | *MERN, Tailwind CSS, Gemini AI, Cloudinary*[cite: 1]
-  * Centralized medical supply platform with **Gemini-powered AI assistance** for streamlined search and record management[cite: 1].
-* **[EstateSync](https://github.com/raghav12344)** | *Java, JavaFX, JDBC, MySQL, Apache POI*[cite: 1]
-  * Real estate management app engineered with optimized search/filter logic for fast property discovery[cite: 1].
-* **[Sportize](https://github.com/raghav12344)** | *Node.js, Express, AngularJS, MySQL, Cloudinary*[cite: 1]
-  * Full-stack sports event management application with custom RESTful APIs[cite: 1].
+* **[Medicose](https://github.com/raghav12344)** | *MERN, Tailwind CSS, Gemini AI, Cloudinary*.
+  * Centralized medical supply platform with **Gemini-powered AI assistance** for streamlined search and record management.
+* **[EstateSync](https://github.com/raghav12344)** | *Java, JavaFX, JDBC, MySQL, Apache POI*.
+  * Real estate management app engineered with optimized search/filter logic for fast property discovery.
+* **[Sportize](https://github.com/raghav12344)** | *Node.js, Express, AngularJS, MySQL, Cloudinary*.
+  * Full-stack sports event management application with custom RESTful APIs.
 
 ---
 
