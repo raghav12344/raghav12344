@@ -1,7 +1,7 @@
 # Hi there, I'm Raghav Gupta 👋
 
 🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad).
-💻 **Full-Stack & ML/AI Developer** passionate about building scalable web applications, RAG pipelines, and data-driven systems.
+💻 **Full-Stack, Java, MERN-Stach, ML/AI Developer** passionate about building scalable web applications, RAG pipelines, and data-driven systems.
 
 ---
 
