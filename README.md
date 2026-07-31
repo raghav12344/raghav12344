@@ -1,14 +1,14 @@
 # Hi there, I'm Raghav Gupta 👋
 
-🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad).
-💻 **Full-Stack, Java, MERN-Stach, ML/AI Developer** passionate about building scalable web applications, RAG pipelines, and data-driven systems.
+🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad).  
+💻 **Full-Stack, Java, MERN-Stack, ML/AI Developer** passionate about building scalable web applications, RAG pipelines, and data-driven systems.
 
 ---
 
 ### 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233).
-- **GitHub:** [github.com/raghav12344](https://github.com/raghav12344).
-- **Email:** graghav1233@gmail.com.
+- **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233)
+- **GitHub:** [github.com/raghav12344](https://github.com/raghav12344)
+- **Email:** graghav1233@gmail.com
 
 ---
 
@@ -35,6 +35,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Tools & Environments:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 ---
 
 ### 🧠 ML & AI Focus
@@ -48,11 +56,11 @@
 
 * **[SQL Doc QA Assistant](https://github.com/raghav12344)** | *Python, RAG, Vector Search, LangChain, LLMs, SQL*
   * Built a **Retrieval-Augmented Generation (RAG)** assistant that parses official SQL documentation and answers complex user queries with context-aware, accurate syntax and explanations.
-* **[Medicose](https://github.com/raghav12344)** | *MERN, Tailwind CSS, Gemini AI, Cloudinary*.
+* **[Medicose](https://github.com/raghav12344/medicare-frontend)** | *MERN, Tailwind CSS, Gemini AI, Cloudinary*
   * Centralized medical supply platform with **Gemini-powered AI assistance** for streamlined search and record management.
-* **[EstateSync](https://github.com/raghav12344)** | *Java, JavaFX, JDBC, MySQL, Apache POI*.
+* **[EstateSync](https://github.com/raghav12344)** | *Java, JavaFX, JDBC, MySQL, Apache POI*
   * Real estate management app engineered with optimized search/filter logic for fast property discovery.
-* **[Sportize](https://github.com/raghav12344)** | *Node.js, Express, AngularJS, MySQL, Cloudinary*.
+* **[Sportize](https://github.com/raghav12344)** | *Node.js, Express, AngularJS, MySQL, Cloudinary*
   * Full-stack sports event management application with custom RESTful APIs.
 
 ---
