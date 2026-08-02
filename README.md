@@ -69,5 +69,5 @@
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav12344&show_icons=true&theme=radial" alt="Raghav's GitHub stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav12344&theme=radial" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=raghav12344&theme=radical" alt="GitHub Streak" />
 </p>
