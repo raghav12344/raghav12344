@@ -13,9 +13,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -24,7 +24,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 Machine Learning & Artificial Intelligence
+---
+
+## 🤖 Machine Learning & Artificial Intelligence
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -32,25 +34,57 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**ML Models & Architectures**
-- 📈 **Regression:** SGD Regressor, MLP Regressor, Dense Neural Network
-- 🧮 **Multiclass Classification:** One-Hot Encoding, Logistic Regression, MLP Classifier
-- 🖼️ **Image Classification:** Multinomial Logistic Regression, Convolutional Neural Network (CNN)
-- 📊 **Time-Series:** Vanilla Recurrent Neural Network (RNN)
-- 💬 **Sentiment Analysis:** Long Short-Term Memory (LSTM)
-- 🧠 **Deep Learning:** Multi-Layer Perceptron, Dense Neural Networks, CNN, Vanilla RNN, LSTM
+### ML Models & Architectures
 
-### 🧠 Generative AI & NLP
+- 📈 **Regression**
+- SGD Regressor
+- MLP Regressor
+- Dense Neural Network
+
+- 🧮 **Multiclass Classification**
+- One-Hot Encoding
+- Logistic Regression
+- MLP Classifier
+
+- 🖼️ **Image Classification**
+- Multinomial Logistic Regression
+- Convolutional Neural Network (CNN)
+
+- 📊 **Time-Series**
+- Vanilla Recurrent Neural Network (RNN)
+
+- 💬 **Sentiment Analysis**
+- Long Short-Term Memory (LSTM)
+
+- 🧠 **Deep Learning**
+- Multi-Layer Perceptron
+- Dense Neural Networks
+- CNN
+- Vanilla RNN
+- LSTM
+
+---
+
+## 🧠 Generative AI & NLP
 
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0052CC?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E7CC3?style=for-the-badge&logo=google&logoColor=white)
 
-- Retrieval-Augmented Generation (RAG) | Vector Search | Embeddings
-- Document Question Answering | Document Processing | Semantic Search
-- LLM Applications | NLP Pipelines | Prompt Engineering | AI-powered Applications
+- Retrieval-Augmented Generation (RAG)
+- Vector Search
+- Embeddings
+- Document Question Answering
+- Document Processing
+- Semantic Search
+- LLM Applications
+- NLP Pipelines
+- Prompt Engineering
+- AI-powered Applications
 
-### 🌐 Web & Backend Development
+---
+
+## 🌐 Web & Backend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,29 +93,53 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-- HTML | CSS | JavaScript | React | AngularJS
-- Node.js | Express.js | RESTful APIs
-- Authentication | Role-Based Access Control | API Integration
-- MERN Stack | Full-Stack Development
+- HTML
+- CSS
+- JavaScript
+- React
+- AngularJS
+- Node.js
+- Express.js
+- RESTful APIs
+- Authentication
+- Role-Based Access Control
+- API Integration
+- MERN Stack
+- Full-Stack Development
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- MySQL | MongoDB | PostgreSQL | JDBC
-- Database Design | CRUD Operations | Database Integration
+- MySQL
+- MongoDB
+- PostgreSQL
+- JDBC
+- Database Design
+- CRUD Operations
+- Database Integration
 
-### ☕ Java & Desktop Development
+---
+
+## ☕ Java & Desktop Development
 
 ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![Apache POI](https://img.shields.io/badge/Apache_POI-007396?style=for-the-badge&logo=apache&logoColor=white)
 
-- Java | JavaFX | JDBC | Apache POI
-- Desktop Applications | Database-driven Applications
+- Java
+- JavaFX
+- JDBC
+- Apache POI
+- Desktop Applications
+- Database-driven Applications
 
-### 🔧 Tools & Environments
+---
+
+## 🔧 Tools & Environments
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -92,31 +150,167 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 ML & AI Focus
 
-### 🤖 [Machine Learning & Deep Learning Models](https://github.com/raghav12344/ml-models)
-**Python • Scikit-Learn • TensorFlow • Keras • NumPy • Pandas • Google Colab**  
-A collection of machine learning and deep learning implementations covering multiple problem domains and different types of datasets. Demonstrates the progression from traditional ML to deep learning architectures across tabular, image, text, and sequential data.
+### 🤖 Machine Learning
 
-### 📚 [SQL Doc QA Assistant](https://github.com/raghav12344)
-**Python • RAG • Vector Search • LangChain • LLMs • SQL**  
-Built a Retrieval-Augmented Generation (RAG) assistant for querying technical SQL documentation. Processes documentation into searchable chunks, generates embeddings for semantic retrieval, and uses an LLM to generate context-aware explanations and SQL answers.
+I work with supervised learning and neural-network models across different types of datasets.
 
-### 🏥 [Medicose](https://github.com/raghav12344/medicare-frontend)
-**MERN Stack • React • Tailwind CSS • Gemini AI • Cloudinary**  
-Developed a centralized medical supply and medicine discovery platform. Features include Gemini-powered AI assistance, advanced search functionality, responsive interfaces, backend API integration, and Cloudinary image management.
+### 📈 Regression
 
-### 🏠 [EstateSync](https://github.com/raghav12344)
-**Java • JavaFX • JDBC • MySQL • Apache POI**  
-A desktop-based real estate management application featuring property management, search and filtering, database-driven CRUD operations via MySQL, and Excel export functionality using Apache POI.
+- SGD Regressor
+- Multi-Layer Perceptron (MLP) Regressor
+- Dense Neural Network
 
-### 🏆 [Sportize](https://github.com/raghav12344)
-**Node.js • Express • AngularJS • MySQL • Cloudinary**  
-A full-stack sports event management platform. Includes RESTful APIs, authentication, role-based access control, event filtering, and responsive web interfaces. Optimized API response times by approximately 25%.
+### 🧮 Multiclass Classification
+
+- One-Hot Encoding
+- Logistic Regression
+- MLP Classifier
+
+### 🖼️ Image Classification
+
+- Image preprocessing
+- Multinomial Logistic Regression
+- Convolutional Neural Network (CNN)
+
+### 📊 Time-Series Forecasting
+
+- Sequential data processing
+- Sequence generation
+- Vanilla Recurrent Neural Network (RNN)
+- Time-series forecasting
+
+### 💬 Sentiment Analysis
+
+- Text preprocessing
+- Tokenization
+- Sequence processing
+- LSTM-based sentiment analysis
 
 ---
 
-## 📚 Areas of Interest
+# 🔎 RAG & Generative AI
+
+Building intelligent document-based question-answering systems using:
+
+- Retrieval-Augmented Generation
+- Vector Search
+- Embeddings
+- Document Chunking
+- Semantic Search
+- Vector Databases
+- LangChain
+- Gemini API
+- Large Language Models
+- Context-aware response generation
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 ML Models
+
+### [Machine Learning & Deep Learning Models](https://github.com/raghav12344/ml-models)
+
+**Python • Scikit-Learn • TensorFlow • Keras • NumPy • Pandas • Google Colab**
+
+A collection of machine learning and deep learning implementations covering multiple problem domains and different types of datasets.
+
+### 📈 Regression
+
+- SGD Regressor
+- Multi-Layer Perceptron Regressor
+- Dense Neural Network
+
+### 🧮 Multiclass Classification
+
+- One-Hot Encoding
+- Logistic Regression
+- MLP Classifier
+
+### 🖼️ Image Classification
+
+- Multinomial Logistic Regression
+- Convolutional Neural Network (CNN)
+
+### 📊 Time-Series Forecasting
+
+- Vanilla RNN
+
+### 💬 Sentiment Analysis
+
+- LSTM
+
+The repository demonstrates the progression from traditional machine learning algorithms to deep learning architectures across **tabular, image, text, and sequential data**.
+
+> 📌 **Execution:** The notebooks are designed to be run using **Google Colab**. Upload the required dataset to the **Google Colab session storage** and execute the notebooks there.
+
+---
+
+## 🤖 SQL Doc QA Assistant
+
+### [SQL Doc QA Assistant](https://github.com/raghav12344)
+
+**Python • RAG • Vector Search • LangChain • LLMs • SQL**
+
+- Built a Retrieval-Augmented Generation (RAG) assistant for querying technical SQL documentation.
+- Processes technical documentation into searchable chunks.
+- Generates embeddings for semantic retrieval.
+- Retrieves relevant documentation context for user queries.
+- Uses an LLM to generate context-aware explanations and SQL answers.
+- Designed for intelligent technical documentation search and question answering.
+
+---
+
+## 🏥 Medicose
+
+### [Medicose](https://github.com/raghav12344/medicare-frontend)
+
+**MERN Stack • React • Tailwind CSS • Gemini AI • Cloudinary**
+
+- Developed a centralized medical supply and medicine discovery platform.
+- Integrated Gemini-powered AI assistance.
+- Implemented medicine and city search functionality.
+- Built responsive React interfaces using Tailwind CSS.
+- Integrated backend APIs and database functionality.
+- Added data visualization and export functionality.
+- Used Cloudinary for image management.
+
+---
+
+## 🏠 EstateSync
+
+### [EstateSync](https://github.com/raghav12344)
+
+**Java • JavaFX • JDBC • MySQL • Apache POI**
+
+- Developed a desktop-based real estate management application.
+- Implemented property management functionality.
+- Added property search and filtering.
+- Integrated MySQL using JDBC.
+- Implemented database-driven CRUD operations.
+- Added Excel export functionality using Apache POI.
+
+---
+
+## 🏆 Sportize
+
+### [Sportize](https://github.com/raghav12344)
+
+**Node.js • Express • AngularJS • MySQL • Cloudinary**
+
+- Built a full-stack sports event management platform.
+- Developed RESTful APIs using Node.js and Express.
+- Implemented authentication and role-based access control.
+- Added event filtering functionality.
+- Integrated Cloudinary for image management.
+- Designed responsive web interfaces.
+- Optimized API response times by approximately 25%.
+
+---
+
+# 📚 Areas of Interest
 
 ```text
 Artificial Intelligence
@@ -146,7 +340,7 @@ Artificial Intelligence
 │   └── LLM Applications
 │
 └── Time Series
-    └── Forecasting
+   └── Forecasting
 
 Software Development
 │
@@ -156,3 +350,95 @@ Software Development
 ├── REST APIs
 ├── Database Systems
 └── Backend Development
+```
+# 💻 Computer Science & Development Skills
+## Programming
+-C
+-C++
+-Java
+-Python
+-JavaScript
+-SQL
+
+## Core Computer Science
+-Data Structures & Algorithms
+-Object-Oriented Programming
+-Database Management Systems
+-Operating Systems
+-Computer Networks
+-Software Development
+
+## Machine Learning
+-Supervised Learning
+-Regression
+-Classification
+-Neural Networks
+-Deep Learning
+-Computer Vision
+-Natural Language Processing
+-Time-Series Analysis
+
+## Web Development
+-HTML
+-CSS
+-JavaScript
+-React
+-AngularJS
+-Node.js
+-Express.js
+-REST APIs
+-MERN Stack
+
+## Databases
+-MySQL
+-MongoDB
+-PostgreSQL
+-JDBC
+
+### 📊 GitHub Stats 
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav12344&show_icons=true&theme=radial" alt="Raghav's GitHub stats" /> <br/><br/> 
+<img src="https://streak-stats.demolab.com?user=raghav12344&theme=radical&cache_seconds=86400" alt="GitHub Streak"> </p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav12344&show_icons=true&theme=radial&hide_border=false" alt="Raghav's GitHub Stats" /> </p>
+### 🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=raghav12344&theme=radical&hide_border=false" alt="Raghav's GitHub Streak" /> </p>
+
+### 💻 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radial&hide_border=false" alt="Raghav's Most Used Languages" /> </p>
+
+### 🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Raghav's GitHub Trophies" /> </p>
+
+### 📈 GitHub Contribution Graph
+<p align="center"> <a href="https://github.com/raghav12344"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav12344&theme=react-dark&hide_border=false" alt="Raghav's GitHub Activity Graph" /> </a> </p>
+
+# 📈 What I'm Currently Exploring
+🤖 Advanced Machine Learning
+🧠 Deep Learning Architectures
+🔎 Retrieval-Augmented Generation
+🗄️ Vector Databases
+💬 Large Language Model Applications
+🖼️ Computer Vision
+📚 Natural Language Processing
+📊 Time-Series Forecasting
+⚡ AI-powered Full-Stack Applications
+🚀 ML Model Deployment
+🎯 Career Interests
+
+## I'm interested in opportunities related to:
+
+Software Engineering
+Machine Learning Engineering
+AI/ML Engineering
+Full-Stack Development
+Backend Development
+Generative AI
+Data-driven Applications
+📫 Let's Connect
+
+I'm always interested in discussing Software Engineering, Machine Learning, Artificial Intelligence, Full-Stack Development, and interesting technical projects.
+
+💼 LinkedIn: Raghav Gupta
+💻 GitHub: raghav12344
+📧 Email: graghav1233@gmail.com
+
+# ⭐ Thanks for visiting my profile!
