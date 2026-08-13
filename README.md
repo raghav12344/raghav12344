@@ -359,6 +359,7 @@ Software Development
 -Python
 -JavaScript
 -SQL
+
 ## Core Computer Science
 -Data Structures & Algorithms
 -Object-Oriented Programming
@@ -366,6 +367,7 @@ Software Development
 -Operating Systems
 -Computer Networks
 -Software Development
+
 ## Machine Learning
 -Supervised Learning
 -Regression
@@ -375,6 +377,7 @@ Software Development
 -Computer Vision
 -Natural Language Processing
 -Time-Series Analysis
+
 ## Web Development
 -HTML
 -CSS
@@ -385,8 +388,13 @@ Software Development
 -Express.js
 -REST APIs
 -MERN Stack
+
 ## Databases
 -MySQL
 -MongoDB
 -PostgreSQL
 -JDBC
+
+### 📊 GitHub Stats 
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav12344&show_icons=true&theme=radial" alt="Raghav's GitHub stats" /> <br/><br/> 
+<img src="https://streak-stats.demolab.com?user=raghav12344&theme=radical&cache_seconds=86400" alt="GitHub Streak"> </p>
