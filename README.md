@@ -408,17 +408,17 @@ Software Development
 <p align="center"> <a href="https://github.com/raghav12344"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav12344&theme=react-dark&hide_border=false" alt="Raghav's GitHub Activity Graph" /> </a> </p>
 
 # 📈 What I'm Currently Exploring
-🤖 Advanced Machine Learning
-🧠 Deep Learning Architectures
-🔎 Retrieval-Augmented Generation
-🗄️ Vector Databases
-💬 Large Language Model Applications
-🖼️ Computer Vision
-📚 Natural Language Processing
-📊 Time-Series Forecasting
-⚡ AI-powered Full-Stack Applications
-🚀 ML Model Deployment
-🎯 Career Interests
+🤖 Advanced Machine Learning <br></br> 
+🧠 Deep Learning Architectures<br></br>
+🔎 Retrieval-Augmented Generation<br></br>
+🗄️ Vector Databases<br></br>
+💬 Large Language Model Applications<br></br>
+🖼️ Computer Vision<br></br>
+📚 Natural Language Processing<br></br>
+📊 Time-Series Forecasting<br></br>
+⚡ AI-powered Full-Stack Applications<br></br>
+🚀 ML Model Deployment<br></br>
+🎯 Career Interests<br></br>
 
 ## I'm interested in opportunities related to:
 
