@@ -353,47 +353,47 @@ Software Development
 ```
 # 💻 Computer Science & Development Skills
 ## Programming
--C
--C++
--Java
--Python
--JavaScript
--SQL
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- SQL
 
 ## Core Computer Science
--Data Structures & Algorithms
--Object-Oriented Programming
--Database Management Systems
--Operating Systems
--Computer Networks
--Software Development
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Development
 
 ## Machine Learning
--Supervised Learning
--Regression
--Classification
--Neural Networks
--Deep Learning
--Computer Vision
--Natural Language Processing
--Time-Series Analysis
+- Supervised Learning
+- Regression
+- Classification
+- Neural Networks
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Time-Series Analysis
 
 ## Web Development
--HTML
--CSS
--JavaScript
--React
--AngularJS
--Node.js
--Express.js
--REST APIs
--MERN Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- AngularJS
+- Node.js
+- Express.js
+- REST APIs
+- MERN Stack
 
 ## Databases
--MySQL
--MongoDB
--PostgreSQL
--JDBC
+- MySQL
+- MongoDB
+- PostgreSQL
+- JDBC
 
 ### 📊 GitHub Stats 
 <p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav12344&show_icons=true&theme=radial" alt="Raghav's GitHub stats" /> <br/><br/> 
