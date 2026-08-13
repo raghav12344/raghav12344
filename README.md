@@ -396,5 +396,47 @@ Software Development
 -JDBC
 
 ### 📊 GitHub Stats 
-<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav12344&show_icons=true&theme=radial" alt="Raghav's GitHub stats" /> <br/><br/> 
-<img src="https://streak-stats.demolab.com?user=raghav12344&theme=radical&cache_seconds=86400" alt="GitHub Streak"> </p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav12344&show_icons=true&theme=radial&hide_border=false" alt="Raghav's GitHub Stats" /> </p>
+### 🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=raghav12344&theme=radical&hide_border=false" alt="Raghav's GitHub Streak" /> </p>
+
+### 💻 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radial&hide_border=false" alt="Raghav's Most Used Languages" /> </p>
+
+### 🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Raghav's GitHub Trophies" /> </p>
+
+### 📈 GitHub Contribution Graph
+<p align="center"> <a href="https://github.com/raghav12344"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav12344&theme=react-dark&hide_border=false" alt="Raghav's GitHub Activity Graph" /> </a> </p>
+
+# 📈 What I'm Currently Exploring
+🤖 Advanced Machine Learning
+🧠 Deep Learning Architectures
+🔎 Retrieval-Augmented Generation
+🗄️ Vector Databases
+💬 Large Language Model Applications
+🖼️ Computer Vision
+📚 Natural Language Processing
+📊 Time-Series Forecasting
+⚡ AI-powered Full-Stack Applications
+🚀 ML Model Deployment
+🎯 Career Interests
+
+## I'm interested in opportunities related to:
+
+Software Engineering
+Machine Learning Engineering
+AI/ML Engineering
+Full-Stack Development
+Backend Development
+Generative AI
+Data-driven Applications
+📫 Let's Connect
+
+I'm always interested in discussing Software Engineering, Machine Learning, Artificial Intelligence, Full-Stack Development, and interesting technical projects.
+
+💼 LinkedIn: Raghav Gupta
+💻 GitHub: raghav12344
+📧 Email: graghav1233@gmail.com
+
+# ⭐ Thanks for visiting my profile!
