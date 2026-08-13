@@ -397,15 +397,13 @@ Software Development
 
 ## 📊 GitHub Stats & Badges
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghav12344&show_icons=true&theme=radical&hide_border=false" alt="Raghav's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=raghav12344&theme=radical&hide_border=false" alt="Raghav's GitHub Streak" />
-</p>
+![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav12344&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical&hide_border=false" alt="Raghav's Most Used Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Raghav's GitHub Trophies" />
-</p>
+![Raghav's GitHub Streak](https://streak-stats.demolab.com?user=raghav12344&theme=radical)
+
+![Raghav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical)
+
+![Raghav's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical)
 ### 📈 GitHub Contribution Graph
 <p align="center"> <a href="https://github.com/raghav12344"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav12344&theme=react-dark&hide_border=false" alt="Raghav's GitHub Activity Graph" /> </a> </p>
 
