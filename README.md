@@ -433,8 +433,8 @@ Data-driven Applications
 
 I'm always interested in discussing Software Engineering, Machine Learning, Artificial Intelligence, Full-Stack Development, and interesting technical projects.
 
-💼 LinkedIn: Raghav Gupta
-💻 GitHub: raghav12344
-📧 Email: graghav1233@gmail.com
+💼 LinkedIn: Raghav Gupta <br></br>
+💻 GitHub: raghav12344  <br></br>
+📧 Email: graghav1233@gmail.com  <br></br>
 
 # ⭐ Thanks for visiting my profile!
