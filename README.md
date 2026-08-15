@@ -397,17 +397,17 @@ Software Development
 
 ## 📊 GitHub Stats & Badges
 
-<!-- GitHub Stats -->
-[![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav12344&show_icons=true&theme=radical&v=888)](https://github.com/raghav12344)
+<!-- 1. GitHub Stats (Your Personal Vercel) -->
+[![Raghav's GitHub Stats](https://github-readme-stats-falcons15.vercel.app/api?username=raghav12344&show_icons=true&theme=radical&v=999)](https://github.com/raghav12344)
 
-<!-- GitHub Streak -->
+<!-- 2. GitHub Streak Card (Heroku) -->
 [![Raghav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav12344&theme=radical)](https://github.com/raghav12344)
 
-<!-- Most Used Languages -->
-[![Raghav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical&v=888)](https://github.com/raghav12344)
+<!-- 3. Most Used Languages (Your Personal Vercel) -->
+[![Raghav's Most Used Languages](https://github-readme-stats-falcons15.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical&v=999)](https://github.com/raghav12344)
 
-<!-- GitHub Trophies -->
-[![Raghav's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&v=888)](https://github.com/raghav12344)
+<!-- 4. GitHub Trophies (Public Vercel Instance) -->
+[![Raghav's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&v=999)](https://github.com/raghav12344)
 
 # 📈 What I'm Currently Exploring
 🤖 Advanced Machine Learning <br></br> 
