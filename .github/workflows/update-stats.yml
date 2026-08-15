@@ -16,16 +16,16 @@ jobs:
 
       - name: Fetch SVGs from APIs asynchronously 
         run: |
-          # 1. Fetch GitHub Stats (Using your new clean Vercel URL)
+          # 1. Fetch GitHub Stats (Verified Production URL)
           curl -o github-stats.svg "https://github-readme-stats-falcons15.vercel.app/api?username=raghav12344&show_icons=true&theme=radical"
           
-          # 2. Fetch GitHub Streak
+          # 2. Fetch GitHub Streak (Heroku Instance)
           curl -o github-streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=raghav12344&theme=radical"
           
-          # 3. Fetch Most Used Languages (Using your new clean Vercel URL)
+          # 3. Fetch Most Used Languages (Verified Production URL)
           curl -o github-langs.svg "https://github-readme-stats-falcons15.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical"
           
-          # 4. Fetch GitHub Trophies
+          # 4. Fetch GitHub Trophies (Public Instance)
           curl -o github-trophies.svg "https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical"
 
       - name: Commit and Push to Repo
@@ -33,5 +33,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-stats.svg github-streak.svg github-langs.svg github-trophies.svg
-          git commit -m "Auto-update all GitHub Stats with new Vercel URL" || echo "No changes to commit"
+          git commit -m "Auto-update all GitHub Stats with verified Vercel URL" || echo "No changes to commit"
           git push
