@@ -400,7 +400,7 @@ Software Development
 <!-- GitHub Stats Card -->
 [![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav12344&show_icons=true&theme=radical)](https://github.com/raghav12344)
 
-<!-- GitHub Streak Card (This one was already working in your image) -->
+<!-- GitHub Streak Card -->
 [![Raghav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav12344&theme=radical)](https://github.com/raghav12344)
 
 <!-- Most Used Languages Card -->
