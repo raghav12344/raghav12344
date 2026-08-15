@@ -397,13 +397,13 @@ Software Development
 
 ## 📊 GitHub Stats & Badges
 
-[![Raghav's GitHub Stats](github-stats.svg)](https://github.com/raghav12344)
+[![Raghav's GitHub Stats](https://github-readme-stats-falcons15.vercel.app/api?username=raghav12344&show_icons=true&theme=radical&v=100)](https://github.com/raghav12344)
 
-[![Raghav's GitHub Streak](github-streak.svg)](https://github.com/raghav12344)
+[![Raghav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav12344&theme=radical)](https://github.com/raghav12344)
 
-[![Raghav's Most Used Languages](github-langs.svg)](https://github.com/raghav12344)
+[![Raghav's Most Used Languages](https://github-readme-stats-falcons15.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical&v=100)](https://github.com/raghav12344)
 
-[![Raghav's GitHub Trophies](github-trophies.svg)](https://github.com/raghav12344)
+[![Raghav's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&v=100)](https://github.com/raghav12344)
 
 # 📈 What I'm Currently Exploring
 🤖 Advanced Machine Learning <br></br> 
