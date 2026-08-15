@@ -397,15 +397,17 @@ Software Development
 
 ## 📊 GitHub Stats & Badges
 
-![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav12344&show_icons=true&theme=radical)
+<!-- GitHub Stats Card -->
+[![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav12344&show_icons=true&theme=radical)](https://github.com/raghav12344)
 
-![Raghav's GitHub Streak](https://streak-stats.demolab.com?user=raghav12344&theme=radical)
+<!-- GitHub Streak Card (This one was already working in your image) -->
+[![Raghav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav12344&theme=radical)](https://github.com/raghav12344)
 
-![Raghav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical)
+<!-- Most Used Languages Card -->
+[![Raghav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical)](https://github.com/raghav12344)
 
-![Raghav's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical)
-### 📈 GitHub Contribution Graph
-<p align="center"> <a href="https://github.com/raghav12344"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav12344&theme=react-dark&hide_border=false" alt="Raghav's GitHub Activity Graph" /> </a> </p>
+<!-- GitHub Trophies -->
+[![Raghav's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical)](https://github.com/raghav12344)
 
 # 📈 What I'm Currently Exploring
 🤖 Advanced Machine Learning <br></br> 
