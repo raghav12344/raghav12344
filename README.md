@@ -399,9 +399,9 @@ Software Development
 
 <br>
 
-<!-- 1. GitHub Stats (Self-Hosted on Vercel) -->
+<!-- 1. GitHub Stats (Warmed Up) -->
 <a href="https://github.com/raghav12344">
-  <img src="https://github-readme-stats-6oi63ufms-falcons15.vercel.app/api?username=raghav12344&show_icons=true&theme=radical&v=3" alt="Raghav's GitHub Stats" />
+  <img src="https://github-readme-stats-6oi63ufms-falcons15.vercel.app/api?username=raghav12344&show_icons=true&theme=radical&v=99" alt="Raghav's GitHub Stats" />
 </a>
 
 <br><br>
@@ -413,16 +413,16 @@ Software Development
 
 <br><br>
 
-<!-- 3. Most Used Languages (Self-Hosted on Vercel) -->
+<!-- 3. Most Used Languages (Warmed Up) -->
 <a href="https://github.com/raghav12344">
-  <img src="https://github-readme-stats-6oi63ufms-falcons15.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical&v=3" alt="Raghav's Most Used Languages" />
+  <img src="https://github-readme-stats-6oi63ufms-falcons15.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical&v=99" alt="Raghav's Most Used Languages" />
 </a>
 
 <br><br>
 
-<!-- 4. GitHub Trophies (Public Vercel Instance) -->
+<!-- 4. GitHub Trophies (Warmed Up) -->
 <a href="https://github.com/raghav12344">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&v=3" alt="Raghav's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&v=99" alt="Raghav's GitHub Trophies" />
 </a>
 
 # 📈 What I'm Currently Exploring
