@@ -397,33 +397,13 @@ Software Development
 
 ## 📊 GitHub Stats & Badges
 
-<br>
+[![Raghav's GitHub Stats](github-stats.svg)](https://github.com/raghav12344)
 
-<!-- 1. GitHub Stats (Local File) -->
-<a href="https://github.com/raghav12344">
-  <img src="./github-stats.svg" alt="Raghav's GitHub Stats" />
-</a>
+[![Raghav's GitHub Streak](github-streak.svg)](https://github.com/raghav12344)
 
-<br><br>
+[![Raghav's Most Used Languages](github-langs.svg)](https://github.com/raghav12344)
 
-<!-- 2. GitHub Streak Card (Local File) -->
-<a href="https://github.com/raghav12344">
-  <img src="./github-streak.svg" alt="Raghav's GitHub Streak" />
-</a>
-
-<br><br>
-
-<!-- 3. Most Used Languages (Local File) -->
-<a href="https://github.com/raghav12344">
-  <img src="./github-langs.svg" alt="Raghav's Most Used Languages" />
-</a>
-
-<br><br>
-
-<!-- 4. GitHub Trophies (Local File) -->
-<a href="https://github.com/raghav12344">
-  <img src="./github-trophies.svg" alt="Raghav's GitHub Trophies" />
-</a>
+[![Raghav's GitHub Trophies](github-trophies.svg)](https://github.com/raghav12344)
 
 # 📈 What I'm Currently Exploring
 🤖 Advanced Machine Learning <br></br> 
