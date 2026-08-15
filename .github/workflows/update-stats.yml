@@ -1,0 +1,31 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs automatically every 12 hours
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-images:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch SVGs from Vercel asynchronously 
+        run: |
+          # Fetch Stats
+          curl -o github-stats.svg "https://github-readme-stats-6oi63ufms-falcons15.vercel.app/api?username=raghav12344&show_icons=true&theme=radical"
+          
+          # Fetch Languages
+          curl -o github-langs.svg "https://github-readme-stats-6oi63ufms-falcons15.vercel.app/api/top-langs/?username=raghav12344&layout=compact&theme=radical"
+
+      - name: Commit and Push to Repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg github-langs.svg
+          git commit -m "Auto-update GitHub Stats" || echo "No changes to commit"
+          git push
