@@ -1,15 +1,21 @@
-# Hi there, I'm Raghav Gupta 👋
+<!-- INTRO CARD (self-hosted SVG: keep intro-card.svg in the repo root) -->
+<p align="center">
+  <img width="100%" alt="Raghav Gupta - Full-Stack, ML and AI Developer, B.Tech CSE at MNNIT Allahabad" src="./intro-card.svg" />
+</p>
 
-🎓 **B.Tech in Computer Science and Engineering** at Motilal Nehru National Institute of Technology (MNNIT Allahabad).  
-💻 **Full-Stack, Java, MERN-Stack, ML/AI Developer** passionate about building scalable web applications, RAG pipelines, machine learning models, and data-driven systems.
+<p align="center">
+  💻 Passionate about building scalable web applications, RAG pipelines, machine learning models, and data-driven systems.
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/raghav-gupta1233](https://linkedin.com/in/raghav-gupta1233)
-- 💻 **GitHub:** [github.com/raghav12344](https://github.com/raghav12344)
-- 📧 **Email:** [graghav1233@gmail.com](mailto:graghav1233@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/raghav-gupta1233"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/raghav12344"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:graghav1233@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -37,31 +43,26 @@
 ### ML Models & Architectures
 
 - 📈 **Regression**
-- SGD Regressor
-- MLP Regressor
-- Dense Neural Network
-
+  - SGD Regressor
+  - MLP Regressor
+  - Dense Neural Network
 - 🧮 **Multiclass Classification**
-- One-Hot Encoding
-- Logistic Regression
-- MLP Classifier
-
+  - One-Hot Encoding
+  - Logistic Regression
+  - MLP Classifier
 - 🖼️ **Image Classification**
-- Multinomial Logistic Regression
-- Convolutional Neural Network (CNN)
-
+  - Multinomial Logistic Regression
+  - Convolutional Neural Network (CNN)
 - 📊 **Time-Series**
-- Vanilla Recurrent Neural Network (RNN)
-
+  - Vanilla Recurrent Neural Network (RNN)
 - 💬 **Sentiment Analysis**
-- Long Short-Term Memory (LSTM)
-
+  - Long Short-Term Memory (LSTM)
 - 🧠 **Deep Learning**
-- Multi-Layer Perceptron
-- Dense Neural Networks
-- CNN
-- Vanilla RNN
-- LSTM
+  - Multi-Layer Perceptron
+  - Dense Neural Networks
+  - CNN
+  - Vanilla RNN
+  - LSTM
 
 ---
 
@@ -338,7 +339,7 @@ Artificial Intelligence
 │   └── LLM Applications
 │
 └── Time Series
-   └── Forecasting
+    └── Forecasting
 
 Software Development
 │
@@ -349,7 +350,11 @@ Software Development
 ├── Database Systems
 └── Backend Development
 ```
+
+---
+
 # 💻 Computer Science & Development Skills
+
 ## Programming
 - C
 - C++
@@ -393,6 +398,8 @@ Software Development
 - PostgreSQL
 - JDBC
 
+---
+
 ## 📊 GitHub Stats & Badges
 
 <p align="center">
@@ -410,34 +417,61 @@ Software Development
   </a>
 </p>
 
+### 🐍 Contribution Snake
+
+<!-- Needs the snake.yml workflow (see .github/workflows/snake.yml) to run once. Delete this block if you don't want it. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghav12344/raghav12344/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghav12344/raghav12344/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/raghav12344/raghav12344/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 # 📈 What I'm Currently Exploring
-🤖 Advanced Machine Learning <br></br> 
-🧠 Deep Learning Architectures<br></br>
-🔎 Retrieval-Augmented Generation<br></br>
-🗄️ Vector Databases<br></br>
-💬 Large Language Model Applications<br></br>
-🖼️ Computer Vision<br></br>
-📚 Natural Language Processing<br></br>
-📊 Time-Series Forecasting<br></br>
-⚡ AI-powered Full-Stack Applications<br></br>
-🚀 ML Model Deployment<br></br>
-🎯 Career Interests<br></br>
 
-## I'm interested in opportunities related to:
+- 🤖 Advanced Machine Learning
+- 🧠 Deep Learning Architectures
+- 🔎 Retrieval-Augmented Generation
+- 🗄️ Vector Databases
+- 💬 Large Language Model Applications
+- 🖼️ Computer Vision
+- 📚 Natural Language Processing
+- 📊 Time-Series Forecasting
+- ⚡ AI-powered Full-Stack Applications
+- 🚀 ML Model Deployment
 
-Software Engineering
-Machine Learning Engineering
-AI/ML Engineering
-Full-Stack Development
-Backend Development
-Generative AI
-Data-driven Applications
-📫 Let's Connect
+## 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+- Software Engineering
+- Machine Learning Engineering
+- AI/ML Engineering
+- Full-Stack Development
+- Backend Development
+- Generative AI
+- Data-driven Applications
+
+---
+
+## 📫 Let's Connect
 
 I'm always interested in discussing Software Engineering, Machine Learning, Artificial Intelligence, Full-Stack Development, and interesting technical projects.
 
-💼 LinkedIn: Raghav Gupta <br></br>
-💻 GitHub: raghav12344  <br></br>
-📧 Email: graghav1233@gmail.com  <br></br>
+<p align="center">
+  <a href="https://linkedin.com/in/raghav-gupta1233"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raghav_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/raghav12344"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-raghav12344-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:graghav1233@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-graghav1233@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-# ⭐ Thanks for visiting my profile!
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
+</p>
+
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" />
+</p>
