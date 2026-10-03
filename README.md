@@ -410,12 +410,6 @@ Software Development
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/raghav12344">
-    <img alt="Raghav's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=raghav12344&theme=radical&no-frame=true&row=1&column=7" />
-  </a>
-</p>
-
 # 📈 What I'm Currently Exploring
 🤖 Advanced Machine Learning <br></br> 
 🧠 Deep Learning Architectures<br></br>
