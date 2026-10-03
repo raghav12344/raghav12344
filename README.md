@@ -1,6 +1,6 @@
 <!-- INTRO CARD (self-hosted SVG: keep intro-card.svg in the repo root) -->
 <p align="center">
-  <img width="100%" alt="Raghav Gupta - Full-Stack, ML and AI Developer, B.Tech CSE at MNNIT Allahabad" src="./intro-card.svg" />
+  <img width="100%" alt="Raghav Gupta - Full-Stack, ML and AI Developer, B.Tech CSE at MNNIT Allahabad" src="./intro-card-v2.svg" />
 </p>
 
 <p align="center">
